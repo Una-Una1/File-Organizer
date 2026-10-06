@@ -15,11 +15,11 @@ The project was built from the ground up as a learning project while developing 
 
 ### Organization Results
 
-![Organization Results](Screenshots/organized.png)
+![Organization Results](Screenshots/Organized.png)
 
 ### Preview / Configuration
 
-![Preview and Configuration](Screenshots/previewing.png)
+![Preview and Configuration](Screenshots/Previewing.png)
 
 ---
 
@@ -236,7 +236,7 @@ Example:
             "Documents"
         ],
         "excluded_files": [
-            "file_organizer_config.json",
+            "file_organizer_config.json"
         ]
     },
 
