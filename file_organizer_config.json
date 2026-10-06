@@ -1,0 +1,112 @@
+{
+    "settings": {
+    "excluded_folders": [
+        "Images",
+        "Documents",
+        "Spreadsheets",
+        "Presentations",
+        "Fonts",
+        "Videos",
+        "Music",
+        "Archives",
+        "Program",
+        "Code",
+        "Other"
+    ],
+    "excluded_files": [
+        "file_organizer_config.json",
+        "file_organizer_history.json"
+    ]
+},
+    "categories": {
+        "Images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".bmp",
+            ".webp"
+        ],
+        "Documents": [
+            ".pdf",
+            ".doc",
+            ".docx",
+            ".txt",
+            ".rtf",
+            ".md"
+        ],
+        "Spreadsheets": [
+            ".xls",
+            ".xlsx",
+            ".xlsm",
+            ".csv",
+            ".ods",
+            ".tsv"
+        ],
+        "Presentations": [
+            ".ppt",
+            ".pptx",
+            ".pps",
+            ".ppsx",
+            ".odp",
+            ".key"
+        ],
+        "Fonts": [
+            ".ttf",
+            ".otf",
+            ".woff",
+            ".woff2",
+            ".eot",
+            ".fon"
+        ],
+        "Videos": [
+            ".mp4",
+            ".mkv",
+            ".avi",
+            ".mov",
+            ".wmv"
+        ],
+        "Music": [
+            ".mp3",
+            ".wav",
+            ".flac",
+            ".aac",
+            ".ogg"
+        ],
+        "Archives": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz"
+        ],
+        "Program": [
+            ".exe",
+            ".msi"
+        ],
+        "Code": [
+            ".py",
+            ".js",
+            ".ts",
+            ".html",
+            ".css",
+            ".java",
+            ".c",
+            ".cpp",
+            ".h",
+            ".cs",
+            ".go",
+            ".rb",
+            ".php",
+            ".sh",
+            ".bat",
+            ".ps1",
+            ".swift",
+            ".rs",
+            ".json",
+            ".xml",
+            ".yml",
+            ".yaml"
+        ]
+    }
+}
