@@ -1,10 +1,25 @@
 # File Organizer
 
-A configurable Windows file-organization utility built with Python.
-
+A configurable Windows file-organization utility built with Python and a graphical interface.
 File Organizer scans a selected folder, identifies files by extension, builds a complete organization plan, and safely moves files into categorized folders. It supports recursive scanning, configurable categories, duplicate-name protection, operation validation, persistent history, and undo functionality.
 
 The project was built from the ground up as a learning project while developing practical Python, file-system automation, GUI, debugging, and software architecture skills.
+
+---
+
+## Screenshots
+
+### Main Interface
+
+![File Organizer GUI](Screenshots/GUI.png)
+
+### Organization Results
+
+![Organization Results](Screenshots/organized.png)
+
+### Preview / Configuration
+
+![Preview and Configuration](Screenshots/previewing.png)
 
 ---
 
