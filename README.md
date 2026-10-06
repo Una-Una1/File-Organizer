@@ -197,9 +197,6 @@ File Organizer/
 ├── file_organizer_config.json
 │   └── File categories and settings
 │
-├── file_organizer_history.json
-│   └── Most recent saved organization history
-│
 └── README.md
     └── Project documentation
 ```
@@ -225,7 +222,6 @@ Example:
         ],
         "excluded_files": [
             "file_organizer_config.json",
-            "file_organizer_history.json"
         ]
     },
 
